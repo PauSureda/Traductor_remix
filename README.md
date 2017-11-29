@@ -1,7 +1,7 @@
 # Traductor_remix
 GITHUB_0_Trad_ONLINE1-PAJOMA
 Remix
-Remix (aka. Browser-Solidity) is a browser-based Solidity compiler and IDE.
+Remix (aka. Buscador-Solido) es un buscador-basado Solido compilado y IDE.
 Visit https://remix.ethereum.org to use; it will always deliver the latest version.
 Offline Usage
 The gh-pages branch always has the latest stable build of Remix. It also contains a ZIP file with the entire build. Download it to use offline.
