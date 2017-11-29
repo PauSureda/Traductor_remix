@@ -12,7 +12,7 @@ git clone https://github.com/ethereum/browser-solidity
 cd browser-solidity
 DEVELOPING:
 Run npm start and open http://127.0.0.1:8080 in your browser.
-Then open your text editor and start developing. The browser will automatically refresh when files are saved
+Entonces obre yu texto editor y empezar desenvolupar. El buscador que automaticamente refrescar cuando archivos son salvados
 Troubleshooting building
 Here are some things to consider if you have trouble building the package.
 Make sure that you have the correct version of node, npm and nvm. You can find the version that is tested on Travis CI by looking.
